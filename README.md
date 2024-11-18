@@ -1,2 +1,6 @@
-# 3tier
-3 tier application by using dockerfile
+# 3 Tier Application
+
+This is my Dockerized project with:
+- Frontend
+- Backend
+- MySQL
